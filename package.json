@@ -1,0 +1,7 @@
+{
+  "name": "number-info-api",
+  "version": "1.0.0",
+  "dependencies": {
+    "giggsey/libphonenumber-for-php": "^9.0"
+  }
+}
